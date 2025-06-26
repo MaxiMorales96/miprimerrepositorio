@@ -4,7 +4,7 @@ mi primer repositorio en Github
 
 i love :icecream:, :pizza:, :dog:
 
-   i love :star:, :book:, :moon:
+i love :star:, :book:, :moon:
 
 mi última línea en el repositorio
 
